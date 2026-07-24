@@ -1,5 +1,5 @@
 from dash import Input, Output, html
-from charts import (
+from dashboard.charts import (
     discount_distribution,
     status_distribution,
     top_brands,
